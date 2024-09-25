@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PresensiApp</string>
+    <string-array name="status_array">
+        <item>Hadir</item>
+        <item>Sakit</item>
+        <item>Izin</item>
+        <item>Alpa</item>
+    </string-array>
+</resources>
